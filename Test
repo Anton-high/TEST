@@ -1,1 +1,167 @@
 
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <title>Konst genom tiderna</title>
+  <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+
+  <ul>
+    <div class="myDiv">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="1600.html">1600-talet</a></li>
+      <li><a href="Utdödadjur.html">Utdöda djur</a></li>
+      <li><a href="1800.html">Maskiner</a></li>
+      <li><a href="Filmer.html">Filmer</a></li>
+      <li><a class="active" href="Konst.html">Konst</a></li>
+    </div>
+  </ul>
+
+  <h1>Konst genom tiderna</h1>
+
+  <p>
+    Konst har funnits i tusentals år och har förändrats mycket
+    genom historien. Människor har använt konst för att uttrycka
+    känslor, berätta historier och visa hur samhället såg ut.
+    Här kan du läsa om konstens utveckling från forntiden till
+    2000-talet.
+  </p>
+
+  <h2>Förhistorisk konst (ca 40 000–3 000 f.Kr.)</h2>
+
+  <img src="grottmalning.jpg"
+       alt="Förhistoriska grottmålningar"
+       width="500">
+
+  <p>
+    Den äldsta konsten skapades av människor som målade på
+    grottväggar. De målade ofta djur, jaktscener och människor.
+    Färgerna kom från naturliga material som jord och kol.
+    Ett känt exempel är grottmålningarna i Lascaux i Frankrike.
+  </p>
+
+  <br>
+
+  <h2>Egyptisk konst (ca 3 000–30 f.Kr.)</h2>
+
+  <img src="egyptisk_konst.jpg"
+       alt="Egyptiska väggmålningar"
+       width="500">
+
+  <p>
+    I det gamla Egypten handlade konsten mycket om faraoner,
+    gudar och livet efter döden. Man skapade statyer,
+    pyramider och målningar i gravar. Människor målades ofta
+    med huvudet från sidan och kroppen framifrån.
+  </p>
+
+  <br>
+
+  <h2>Grekisk konst (ca 800–146 f.Kr.)</h2>
+
+  <img src="grekisk_konst.jpg"
+       alt="Grekisk skulptur"
+       width="500">
+
+  <p>
+    Grekerna var kända för sina skulpturer av människor och
+    gudar. De försökte skapa perfekta kroppar med realistiska
+    proportioner. De byggde också stora tempel och dekorerade
+    keramik med olika bilder.
+  </p>
+
+  <br>
+
+  <h2>Romersk konst (ca 500 f.Kr.–476 e.Kr.)</h2>
+
+  <img src="romersk_konst.jpg"
+       alt="Romersk mosaik"
+       width="500">
+
+  <p>
+    Romarna inspirerades mycket av den grekiska konsten.
+    De skapade realistiska porträtt, väggmålningar och
+    mosaiker. De byggde även stora byggnader med valv
+    och kupoler.
+  </p>
+
+  <br>
+
+  <h2>1600-talet – Barocken</h2>
+
+  <img src="barocken.jpg"
+       alt="Barockmålning"
+       width="500">
+
+  <p>
+    Under 1600-talet blev barocken en populär konststil.
+    Konsten hade starka färger, dramatiska motiv och stora
+    kontraster mellan ljus och mörker. Kända konstnärer
+    var Rembrandt och Caravaggio.
+  </p>
+
+  <br>
+
+  <h2>1800-talet – Impressionismen</h2>
+
+  <img src="impressionism.jpg"
+       alt="Impressionistisk målning"
+       width="500">
+
+  <p>
+    Under 1800-talet utvecklades impressionismen.
+    Konstnärerna ville fånga ljus, färger och ögonblick.
+    De använde ofta synliga penseldrag och målade
+    naturen och vardagslivet. Claude Monet var en
+    av de mest kända konstnärerna.
+  </p>
+
+  <br>
+
+  <h2>1900-talet – Modern konst</h2>
+
+  <img src="modern_konst.jpg"
+       alt="Modern abstrakt konst"
+       width="500">
+
+  <p>
+    Under 1900-talet började konstnärer experimentera
+    med nya sätt att skapa konst. Allt behövde inte längre
+    se verkligt ut. Abstrakt konst, surrealism och popkonst
+    blev populära. Pablo Picasso och Andy Warhol var
+    två kända konstnärer.
+  </p>
+
+  <br>
+
+  <h2>2000-talet – Digital konst</h2>
+
+  <img src="digital_konst.jpg"
+       alt="Modern digital konst"
+       width="500">
+
+  <p>
+    På 2000-talet har tekniken förändrat konsten.
+    Idag kan människor skapa konst med datorer,
+    digitala ritprogram och artificiell intelligens.
+    Även graffiti, fotografi och installationer
+    är vanliga konstformer.
+  </p>
+
+  <br>
+
+  <h2>Sammanfattning</h2>
+
+  <p>
+    Konsten har utvecklats från enkla grottmålningar
+    till avancerad digital konst. Förr handlade konst
+    ofta om religion, gudar och kungar. Idag handlar
+    den också om personliga känslor, fantasi, teknik
+    och samhällsfrågor.
+  </p>
+
+</body>
+</html>
+
